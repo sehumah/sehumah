@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on (an Android Carpool Mobile Application & Job Applications)
+- 🔭 I’m currently working on (Job Applications)
 - 🌱 I’m (still/)currently learning (Software Engineering & Android Development)
 - 👯 I’m looking to collaborate on (any open source projects. Hopefully start one soon.)
 - 🤔 I’m looking for help with (getting a job in the Tech Industry.)
